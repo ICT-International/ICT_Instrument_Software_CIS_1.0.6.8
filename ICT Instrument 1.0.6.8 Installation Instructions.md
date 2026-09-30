@@ -2,7 +2,7 @@
 1. Ensure the instrument is not connected to the computer
 1. Install the “CDM v2.12.28 WHQL Certified” Virtual Com Port Driver found here:
    https://ftdichip.com/wp-content/uploads/2021/08/CDM212364_Setup.zip
-1. Download and install (For Windows10 AMD/Intel) the “Microsoft Visual C++ 2010
+1. Download and install (For Windows 10, Windows 11, AMD/Intel) the “Microsoft Visual C++ 2010
 	//Redistributable Package. This is available from the Microsoft download page:
 	//https://www.microsoft.com/en-au/download/details.aspx?id=26999
 1. Download and Install both the vcredist_x86.exe and vcredist_x64.exe packages from the pop up screen.
